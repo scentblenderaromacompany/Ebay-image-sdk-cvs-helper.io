@@ -1,0 +1,7 @@
+tk
+awscli
+pillow
+boto3
+ebaysdk
+openai
+opencv-python
